@@ -4,7 +4,6 @@
       "id": "navratri-2026",
       "from": "2026-10-11",
       "to": "2026-10-19",
-      "effects": ["wallpaper"],
       "art": "navratri",
       "artRev": 1,
       "greeting": "Happy Navratri"
@@ -13,7 +12,6 @@
       "id": "dussehra-2026",
       "from": "2026-10-20",
       "to": "2026-10-21",
-      "effects": ["wallpaper"],
       "art": "dussehra",
       "artRev": 1,
       "greeting": "Happy Dussehra"
