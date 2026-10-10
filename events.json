@@ -1,6 +1,13 @@
 {
   "events": [
     {
+      "id": "mahalaya-2026",
+      "from": "2026-10-10",
+      "to": "2026-10-10",
+      "art": "mahalaya",
+      "artRev": 1
+    },
+    {
       "id": "navratri-2026",
       "from": "2026-10-11",
       "to": "2026-10-19",
